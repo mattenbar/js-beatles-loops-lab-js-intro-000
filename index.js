@@ -20,5 +20,6 @@ function iLoveTheBeatles(int){
   i=0
   while(i < int+1){
     array.push("I love the Beatles!")
+    i++
   }
 }
