@@ -22,5 +22,5 @@ function iLoveTheBeatles(int){
     array.push("I love the Beatles!")
     i++
   }
-  return array
+   console.log(array)
 }
